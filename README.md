@@ -10,7 +10,7 @@ T. M. Pham, R. Farrell and L. N. Tran, "Low-Complexity Approaches for MIMO Capac
 * NOTICE:
   - The current code using C++11 was built and debugged on Netbeans IDE 8.1.
   - The implementation generates results for the covariance matrix, capacity, duality gap/ relative objective error, and number of iterations. One can then save and plot the data using any available software or scripts as an example in the snapshot.  
-* BUG REPORTS: If you find any bug, please send your feedback to m.phamminhthuy@gmail.com.
+* BUG REPORTS: If you find any bug, please send your feedback to m.phamminhthuy@gmail.com or via the website https://goo.gl/urop2o.
 * LICENSE: The code is licensed under the GPLv2.
 
 
